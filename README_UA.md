@@ -35,7 +35,7 @@ The project is structured as follows:
 
 1. Клонуйте репозиторій:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/MethaTrader/TelegramBotScaffolding.git
 
 2. Встановіть необхідні залежності:
     ```bash
