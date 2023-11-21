@@ -2,6 +2,10 @@
 
 ![Telegram Bot Scaffolding image](preview.webp)
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg" width="32" height="24" alt="UK Flag"> This is the English version of the <a href="README.md">README.MD</a>
+
+<a href="README_UA.md"><img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg" width="32" height="24" alt="Прапор України"> Ukrainian version</a>
+
 
 ### This repository contains a template for a Telegram bot built with Python and aiogram. It's designed to provide a structured and scalable starting point for developing Telegram bots.
 
